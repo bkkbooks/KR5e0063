@@ -1,0 +1,117 @@
+canonical_identifier: bkk:krp/KR5e0063/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5e0063/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太古集
+  date: '2015-08-29 02:11:33.522695'
+  source:
+    repository: kanripo
+    path: KR5e0063
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5e0063_000-CK-KZ-jye.yaml, hash: 'sha256:25c28b0ab3407bfba2a8d4761424c53d540a58a8470f7e3ab18aa798b2639e88'}
+  - {seq: 1, filename: KR5e0063_001-CK-KZ-jye.yaml, hash: 'sha256:5af57e89ade64fb5ceaf078ed2978181c694d049b04a80ccca4f0cc081672e64'}
+  - {seq: 2, filename: KR5e0063_002-CK-KZ-jye.yaml, hash: 'sha256:6aea761dc483738b19ffc1e7d80edbd07e0b47413c7eea1af97f678d0d8b1534'}
+  - {seq: 3, filename: KR5e0063_003-CK-KZ-jye.yaml, hash: 'sha256:d97a560446533cff3f3c83e3557d6a73086225001417b10d37921abc4a23746f'}
+  - {seq: 4, filename: KR5e0063_004-CK-KZ-jye.yaml, hash: 'sha256:7b399ee2c0945cf27cbffb39ad28847b9f753e0d830d91d5cf8c7618765a608b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5e0063_000-CK-KZ-jye.markers.yaml, hash: 'sha256:1a3d1a52d949a774403f01609f6445a357244e35107b50c659be6e74d44da9cf'}
+  - {seq: 1, role: markers, filename: assets/KR5e0063_001-CK-KZ-jye.markers.yaml, hash: 'sha256:63295606aca6fa57715288c927e5102c20989dfb3baa72e934fc8328b4140bcd'}
+  - {seq: 2, role: markers, filename: assets/KR5e0063_002-CK-KZ-jye.markers.yaml, hash: 'sha256:3ccfd8352b35128e04a01426a5e65a08a0cb638c96354f10c9d6da3792e4e622'}
+  - {seq: 3, role: markers, filename: assets/KR5e0063_003-CK-KZ-jye.markers.yaml, hash: 'sha256:a33fc1882e91f66ab5ed54d0d97a7ddba75891feccd4a5891344276326e9220e'}
+  - {seq: 4, role: markers, filename: assets/KR5e0063_004-CK-KZ-jye.markers.yaml, hash: 'sha256:b8227362e892279428ede4f207f6664e537e92b0a07708349b4796fb5ded6876'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5e0063_CK-KZ-jye_000-h1
+    span:
+    - body
+    - 0
+    - 905
+  label: 太古集序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR5e0063_CK-KZ-jye_000-h2
+    span:
+    - body
+    - 905
+    - 1326
+  label: 太古集序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR5e0063_CK-KZ-jye_000-h3
+    span:
+    - body
+    - 1326
+    - 1821
+  label: 太古集序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR5e0063_CK-KZ-jye_000-h4
+    span:
+    - body
+    - 1821
+    - 2501
+  label: 太古集自序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5e0063_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 1592
+  label: 周易參同契簡要釋義(并序)
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5e0063_CK-KZ_01p014b
+    span:
+    - body
+    - 0
+    - 2157
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5e0063_CK-KZ_01p026a
+    span:
+    - body
+    - 0
+    - 2136
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5e0063_CK-KZ-jye_004-h1
+    span:
+    - body
+    - 0
+    - 1825
+  label: 金丹詩
+  type: section
+  level: 2
+hash: sha256:fcc1702eb0815afe67050974c3fbbaf85ef58748f5fec35035038bb1a0a82920
